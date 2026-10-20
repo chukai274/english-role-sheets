@@ -1,0 +1,202 @@
+{
+  "title": "How Small Habits Shape Learning",
+  "date": "2026-09-17",
+  "roles": {
+    "discussion_leader": {
+      "name": "Discussion Leader Name",
+      "display_name": "Discussion Leader Name",
+      "questions": [
+        "Why does the author argue that small habits matter more than occasional bursts of effort?",
+        "Which example best shows how a routine can change a learner's results?",
+        "What could make a useful learning habit difficult to maintain?",
+        "How could you adapt one habit from the article to your own study plan?"
+      ],
+      "answerers": ["", "", "", ""],
+      "best_ideas": [
+        "Small actions are easier to repeat, so they accumulate over time.",
+        "The example connects a regular review routine with stronger long-term recall.",
+        "Unclear goals, interruptions, and an unrealistic schedule can weaken a routine.",
+        "A learner could attach a short review to an existing daily activity."
+      ],
+      "passage_reference": "Page 10, P2",
+      "passage_reason": "This passage states the article's main contrast between dramatic effort and steady practice.",
+      "big_question": "Which small learning habit will be easiest to continue for a whole semester?",
+      "meeting_completed": false,
+      "strongest_question": "My strongest question will be #4 because it connects the article to our own study choices.",
+      "next_question": "Next time I would also ask: When should a learner replace a habit that is no longer useful?"
+    },
+    "summarizer": {
+      "name": "Summarizer Name",
+      "display_name": "Summarizer Name",
+      "topic_sentence": "The article explains how small, repeated learning habits produce lasting progress and suggests ways to build a practical routine.",
+      "purposes": ["describe", "explain_why", "explain_steps"],
+      "sections": [
+        {
+          "heading": "The value of small actions",
+          "range": "Page 10, P1",
+          "main_idea": "Small actions can accumulate into meaningful progress.",
+          "fact": "The author contrasts a daily ten-minute review with rare, exhausting study sessions."
+        },
+        {
+          "heading": "Why repetition works",
+          "range": "Page 10, P2",
+          "main_idea": "Repeated practice strengthens memory and lowers the effort needed to begin.",
+          "fact": "A stable cue helps a learner start the routine without making a new decision each day."
+        },
+        {
+          "heading": "Barriers to a routine",
+          "range": "Page 11, P3",
+          "main_idea": "Unrealistic plans and interruptions can cause a habit to disappear.",
+          "fact": "The article recommends reducing the first step when a schedule becomes crowded."
+        },
+        {
+          "heading": "A practical plan",
+          "range": "Page 11, P4",
+          "main_idea": "Learners should choose one clear cue, track repetitions, and adjust gradually.",
+          "fact": "The closing advice is to review the routine weekly rather than demanding perfection."
+        }
+      ],
+      "structures": ["time_order", "main_idea_details", "cause_effect"],
+      "full_summary": "The article begins by arguing that small learning actions can create substantial progress when they are repeated. It then explains that a stable cue makes practice easier to start and that repetition strengthens memory. Next, the author identifies barriers such as crowded schedules and unrealistic goals. Finally, the article recommends choosing one clear cue, tracking repetitions, and adjusting the routine during a weekly review. The overall message is that a practical habit is more valuable than a perfect plan that cannot be sustained.",
+      "short_summary": "Small habits build lasting progress: repeated practice strengthens memory, while clear cues and realistic adjustments help learners sustain a useful routine.",
+      "key_terms": ["small habits", "repeated practice"]
+    },
+    "word_master": {
+      "name": "Word Master Name",
+      "display_name": "Word Master Name",
+      "categories": ["new", "repeated", "specialist"],
+      "words": [
+        {
+          "word": "accumulate",
+          "location": "Page 10, P1",
+          "sentence": "Small improvements accumulate when a learner repeats them every day.",
+          "guess": "to gather little by little",
+          "meaning": "to increase gradually by adding more over time"
+        },
+        {
+          "word": "cue",
+          "location": "Page 10, P2",
+          "sentence": "A clear cue can remind the learner when to begin a short review.",
+          "guess": "a signal that starts an action",
+          "meaning": "a signal or prompt that tells someone what to do"
+        },
+        {
+          "word": "sustainable",
+          "location": "Page 11, P3",
+          "sentence": "A sustainable routine fits the learner's real schedule.",
+          "guess": "able to continue",
+          "meaning": "able to continue for a long time without becoming impossible"
+        },
+        {
+          "word": "adjust",
+          "location": "Page 11, P4",
+          "sentence": "Learners should adjust the routine when their circumstances change.",
+          "guess": "to change slightly to fit a situation",
+          "meaning": "to change something in a small way so that it works better"
+        }
+      ],
+      "star": {
+        "word": "sustainable",
+        "location": "Page 11, P3",
+        "reason": "It captures the article's main practical standard: a routine must be possible to continue.",
+        "memory_picture": "A small green path that continues across a calendar without breaking.",
+        "new_sentence": "I chose a sustainable reading plan instead of promising two hours every night.",
+        "question": "What makes a study routine sustainable for you?"
+      }
+    },
+    "structure_analyzer": {
+      "name": "Structure Analyzer Name",
+      "display_name": "Structure Analyzer Name",
+      "structures": ["sequence", "cause_effect", "problem_solution", "description_list"],
+      "signal_words": "first, because, however, next, finally, when",
+      "map_title": "Build a learning habit that can last",
+      "map_parts": [
+        {
+          "label": "Claim",
+          "location": "Page 10, P1",
+          "detail": "Small repeated actions can create meaningful learning progress."
+        },
+        {
+          "label": "Mechanism",
+          "location": "Page 10, P2",
+          "detail": "Cues and repetition make practice easier to begin and remember."
+        },
+        {
+          "label": "Problem",
+          "location": "Page 11, P3",
+          "detail": "Crowded schedules and unrealistic plans can break a routine."
+        },
+        {
+          "label": "Solution",
+          "location": "Page 11, P4",
+          "detail": "Choose one cue, track repetitions, and adjust the plan weekly."
+        }
+      ],
+      "proof": "Our text is organized as a problem-and-solution sequence because it first explains why habits work, then identifies barriers, and finally presents an ordered plan for adjusting a routine.",
+      "surprise": "A likely point to discuss is that reducing a habit can make it stronger by protecting repetition.",
+      "effect": "The organization moves from a general claim to causes, obstacles, and actions, so the reader can understand both why the advice matters and how to apply it."
+    }
+  },
+  "study_guide": {
+    "week_label": "Week X",
+    "source_pages": "10-11",
+    "paragraph_range": "P1-P4",
+    "chinese_title": "小习惯如何塑造学习",
+    "overview": "文章说明持续而微小的学习行动如何积累成长期进步，并给出建立可持续学习习惯的方法。",
+    "central_claim": "选择清晰提示、重复可完成的行动，并根据实际情况逐步调整，比追求无法坚持的完美计划更有效。",
+    "structure_parts": [
+      {"page_range": "Page 10", "paragraph_range": "P1", "function": "提出主张", "content": "微小而重复的行动能够积累成有意义的学习进步。"},
+      {"page_range": "Page 10", "paragraph_range": "P2", "function": "解释机制", "content": "提示和重复让练习更容易开始，也有助于记忆。"},
+      {"page_range": "Page 11", "paragraph_range": "P3", "function": "指出障碍", "content": "日程拥挤和目标不现实会使习惯中断。"},
+      {"page_range": "Page 11", "paragraph_range": "P4", "function": "给出方案", "content": "选择提示、记录重复次数，并每周调整计划。"}
+    ],
+    "reading_tips": [
+      "关注文章从主张到行动建议的推进顺序。",
+      "区分习惯形成的原因和阻碍习惯的实际问题。"
+    ],
+    "translations": [
+      {"paragraph": "P1", "page": "Page 10", "text": "当学习者每天重复小小的改进时，这些改进会逐渐积累。", "page_break_before": false},
+      {"paragraph": "P2", "page": "Page 10", "text": "清晰的提示可以提醒学习者何时开始短时间复习。", "page_break_before": false},
+      {"paragraph": "P3", "page": "Page 11", "text": "可持续的习惯应当符合学习者真实的时间安排。", "page_break_before": false},
+      {"paragraph": "P4", "page": "Page 11", "text": "当情况改变时，学习者应当调整自己的学习计划。", "page_break_before": false}
+    ],
+    "vocabulary": [
+      {"word": "accumulate", "pronunciation": "/əˈkjuːmjəleɪt/", "part_of_speech": "v.", "meaning_zh": "逐渐积累", "context": "Small improvements accumulate when a learner repeats them every day."},
+      {"word": "cue", "pronunciation": "/kjuː/", "part_of_speech": "n.", "meaning_zh": "提示；信号", "context": "A clear cue can remind the learner when to begin a short review."},
+      {"word": "sustainable", "pronunciation": "/səˈsteɪnəbəl/", "part_of_speech": "adj.", "meaning_zh": "可持续的", "context": "A sustainable routine fits the learner's real schedule."},
+      {"word": "adjust", "pronunciation": "/əˈdʒʌst/", "part_of_speech": "v.", "meaning_zh": "调整", "context": "Learners should adjust the routine when their circumstances change."}
+    ],
+    "star_word": {
+      "word": "sustainable",
+      "memory_picture_zh": "一条绿色小路穿过日历，每天都能继续向前。",
+      "example": "I chose a sustainable reading plan instead of promising two hours every night.",
+      "question_zh": "什么因素会让你的学习计划真正可持续？"
+    },
+    "additional_phrases": [
+      {"phrase": "over time", "meaning_zh": "随着时间推移"}
+    ],
+    "review_prompts": [
+      "说明小行动为什么能够积累成长期进步。",
+      "解释提示和重复如何帮助学习者开始并坚持练习。",
+      "复述文章提出的建立和调整学习习惯的步骤。"
+    ],
+    "discussion_questions": [
+      "为什么可持续性比一次性的高强度努力更重要？",
+      "你会为哪一个学习行动设置固定提示？",
+      "当计划被打断时，应该减少目标还是重新开始？",
+      "怎样判断一个学习习惯正在产生真实效果？"
+    ],
+    "checklist": [
+      {"text": "我能解释 accumulate、cue 和 sustainable 的含义。", "checked": false},
+      {"text": "我能说出文章的四个逻辑部分。", "checked": false},
+      {"text": "我能用自己的话复述文章的行动建议。", "checked": false}
+    ],
+    "takeaway": "把目标缩小到可以重复的行动，再用每周复盘让习惯逐渐变得适合自己。",
+    "metadata": {
+      "author": "English Reading Circle",
+      "description": "可替换的英语阅读圈中文学习资料示例。",
+      "keywords": ["learning habits", "repetition", "English reading"]
+    },
+    "output_basename": "WeekX_中文学习资料"
+  }
+}

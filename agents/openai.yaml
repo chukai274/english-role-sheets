@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Role Sheets"
+  short_description: "为四人英语阅读小组生成独立角色作业文档与中文学习资料"
+  default_prompt: "Use $english-role-sheets to read an English article, collect the four role owners, and generate four role DOCX files plus a Kami Chinese study guide."
